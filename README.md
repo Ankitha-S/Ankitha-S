@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ankitha Srirama Reddy</h1>
 <h3 align="center">A passionate frontend developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/GT7sFDg4X-ZxJP1guktIYo7PIJvoUGBAvqobIYk-jhQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzExNjIw/Nzcvc2NyZWVuc2hv/dHMvMzg0ODkxNC9w/cm9ncmFtbWVyLmdp/Zg.jpeg"
+<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/GT7sFDg4X-ZxJP1guktIYo7PIJvoUGBAvqobIYk-jhQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzExNjIw/Nzcvc2NyZWVuc2hv/dHMvMzg0ODkxNC9w/cm9ncmFtbWVyLmdp/Zg.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitha-s&label=Profile%20views&color=0e75b6&style=flat" alt="ankitha-s" /> </p>
 
 - 🔭 I’m currently working on **LitLogix: Comprehensive Bookstore Management System**
 
-- 🌱 I’m currently learning **security frameworks for front end.**
+- 🌱 I’m currently learning **security frameworks for frontend.**
 
 - 📫 How to reach me **ankithasreddy076@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ankitha srirama reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitha srirama reddy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/ankitha-srirama-reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ankitha-srirama-reddy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,5 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitha-s&show_icons=true&locale=en" alt="ankitha-s" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitha-s&" alt="ankitha-s" /></p>
+
 
 
